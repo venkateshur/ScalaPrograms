@@ -4,9 +4,9 @@ object WhileCondition {
     def main(args: Array[String]) {  
       println("while:  ")
       var a = 10;                    // Initialization  
-      while( a<=20 ){                // Condition  
+      while( a == 20 ){                // Condition  
          println(a);  
-         a = a+2                     // Incrementation  
+          a = a+2                     // Incrementation  
       }  
       
       println("do while:  ")
@@ -15,6 +15,6 @@ object WhileCondition {
             println( b );  
             b = b + 2;      // Increment  
         }  
-        while( b <= 20 )     // Condition    
+        while( b == 20 )     // Condition    
   }  
 }  

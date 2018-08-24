@@ -2,8 +2,9 @@ package com.myscala.training.programs
 
 object IfCondition {
   def main (args: Array[String]) {
-  var number:Int = 85  
+  val number:Int = 50 
   val number2 = 50
+  
   //if and else-if
      if(number>=0 && number<50){  
        println ("fail")  
