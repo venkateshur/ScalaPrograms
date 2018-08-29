@@ -1,4 +1,4 @@
-package com.myscala.training.programs.inheritence.Polymorphism
+package com.myscala.training.programs.Polymorphism
 
 //Scala Method Overloading Example by using Different Parameters(Compile Time Polymorphism)
 class Arithmetic{  

@@ -1,4 +1,4 @@
-package com.myscala.training.programs.inheritence.Polymorphism
+package com.myscala.training.programs.Polymorphism
 //Scala Method Overriding(Run Time Polymorphism)
 
 class Vehicle{  
