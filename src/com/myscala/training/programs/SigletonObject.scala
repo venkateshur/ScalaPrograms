@@ -4,7 +4,8 @@ package com.myscala.training.programs
 
 object SigletonObject{  
       def main(args:Array[String]){  
-	        Object.hello()             // No need to create object.  
+	      val c = Object.hello()             // No need to create object. 
+	      val d = Object.hello()
 	    }  
 	}  	  
 	  
