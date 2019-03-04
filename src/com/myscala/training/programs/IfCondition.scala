@@ -24,7 +24,8 @@ object IfCondition {
 else if(number>=90 && number<=100){  
         println("A+ Grade")  
 }  
-  else println ("Invalid") 
+  else println ("Invalid")
+
  //just if test   
   if(number2 == 50) {
     println("number:" + number2)
